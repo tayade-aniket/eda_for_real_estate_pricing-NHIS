@@ -88,24 +88,19 @@ EDA is essential to:
 
 ## 📷 Sample Visualizations
 ### Plot 1
-
-![Plot](assets/plot1.PNG)
+![Plot1](assets/plot1.PNG)
 
 ### Plot 2
-
-![Plot](assets/plot2.PNG)
+![Plot2](assets/plot2.PNG)
 
 ### Plot 3
-
-![Plot](assets/plot3.PNG)
+![Plot3](assets/plot3.PNG)
 
 ### Plot 4
-
-![Plot](assets/plot4.PNG)
+![Plot4](assets/plot4.PNG)
 
 ### Plot 5
-
-![Plot](assets/plot5.PNG)
+![Plot5](assets/plot5.PNG)
 
 ## ✅ Outcomes
 - Identification of top features most correlated with `SalePrice`
