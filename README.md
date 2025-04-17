@@ -88,19 +88,19 @@ EDA is essential to:
 
 ## 📷 Sample Visualizations
 ### Plot 1
-![Plot1](assets/plot1.PNG)
+![House Price Plot](assets/plot1.png)
 
 ### Plot 2
-![Plot2](assets/plot2.PNG)
+![House Price Plot](assets/plot2.png)
 
 ### Plot 3
-![Plot3](assets/plot3.PNG)
+![House Price Plot](assets/plot3.png)
 
 ### Plot 4
-![Plot4](assets/plot4.PNG)
+![House Price Plot](assets/plot4.png)
 
 ### Plot 5
-![Plot5](assets/plot5.PNG)
+![House Price Plot](assets/plot5.png)
 
 ## ✅ Outcomes
 - Identification of top features most correlated with `SalePrice`
